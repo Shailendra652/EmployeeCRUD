@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Praveen",
+      "lastName": "Saroj",
+      "email": "praveen@saroj.com",
+      "phone": 9587421565,
+      "salary": 50000
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
